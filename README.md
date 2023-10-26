@@ -1,1 +1,1 @@
-# Langchain_and_PDF
+## Streamlit app using Langchain with PDF upload capability
